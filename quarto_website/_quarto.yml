@@ -1,20 +1,20 @@
 project:
   type: website
-
 website:
   title: ""
   navbar:
-    logo: assets/biomes.png # Path to your logo image
+    logo: assets/biomes.png
     left:
-      #- href: index.qmd
-       # text: Home
       - href: about.qmd
         text: About
       - href: contact.qmd
         text: Contact
       - href: partners_and_collaborators.qmd
         text: Partners
-
+  page-footer: 
+    center: 
+      - text: "The content on this website is for informational purposes only. © BIOMES - All rights reserved."
+    background: white
 format:
   html:
     theme: flatly
@@ -23,12 +23,10 @@ format:
       - custom.css
     toc: true
     toc-depth: 3
-    toc-title: Contents
-    number-sections: true
+    toc-title: " "
+    number-sections: false
     highlight-style: github
     code-fold: true
     code-tools: false
     mainfont: Helvetica
-
 editor: visual
-
