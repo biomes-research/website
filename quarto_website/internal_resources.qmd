@@ -13,8 +13,9 @@ For external communications, association projects, and collaborations, BIOMES me
 -   **Microsoft account domain**: biomes-research.org
 -   **BIOMES Microsoft email**: Your official BIOMES email for Microsoft accounts and external communication follows this format: firstname.lastname\@biomes-research.org
 -   **Accessing Microsoft Services**:\
-    1. Visit [Microsoft 365 Login](https://portal.office.com)\
-    2. Sign in using your BIOMES Microsoft email and password 3. Access Outlook, OneDrive, and Teams
+    1.  Visit [Microsoft 365 Login](https://portal.office.com)
+    2.  Sign in using your BIOMES Microsoft email and password
+    3.  Access Outlook, OneDrive, and Teams
 
 ## Google Workspace for internal collaboration
 
@@ -23,15 +24,15 @@ Members have the option to use **Google Workspace** tools such as Google Drive, 
 -   **Google Workspace domain**: workspace.biomes-research.org
 -   **BIOMES Google email**: Your official BIOMES email for Google Workspace follows this format: firstname.lastname\@workspace.biomes-research.org
 -   **Accessing Google Workspace**:\
-    1. Go to Google Workspace login\
-    2. Sign in with your assigned BIOMES Google email and password\
-    3. Use Gmail, Google Drive, and other tools for internal collaboration
+    1.  Visit [Google Account Login](accounts.google.com)
+    2.  Sign in with your assigned BIOMES Google email and password\
+    3.  Use Gmail, Google Drive, and other tools for internal collaboration
 
 ## GitHub Organizational Resources
 
 BIOMES maintains an official GitHub organization account for research-related software development and repository management.
 
--   **GitHub Organization**: [github.com/biomes-research](https://github.com/biomes-research)\
+-   **GitHub Organization**: [github.com/biomes-research](https://github.com/biomes-research)
 -   **Request Access**: If you need access to repositories, contact an administrator or request membership via GitHub.\
 -   **Collaboration**: Use GitHub Issues and Discussions to communicate within projects.
 
