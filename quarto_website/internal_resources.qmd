@@ -1,12 +1,12 @@
 ---
-title: "Internal Resources"
+title: ""
 ---
 
-# Internal collaboration & resources
+## Internal Resources for Collaboration and Communication
 
-Welcome to the internal collaboration page for **BIOMES (Bern Intestinal Organisms and Microbial Ecosystems Society)**. Below, you will find information on our official communication and collaboration platforms.
+**BIOMES (Bern Intestinal Organisms and Microbial Ecosystems Society)** supports its members and contributors in achieving the association’s mission. Below, you will find information on our official communication and collaboration platforms.
 
-## Microsoft accounts for internal and external collaboration and communications
+## Microsoft Accounts for Internal and External Collaboration and Communication
 
 For external communications, association projects, and collaborations, BIOMES members may also use Microsoft accounts.
 
@@ -17,7 +17,7 @@ For external communications, association projects, and collaborations, BIOMES me
     2.  Sign in using your BIOMES Microsoft email and password
     3.  Access Outlook, OneDrive, and Teams
 
-## Google Workspace for internal collaboration
+## Google Workspace for Internal Collaboration
 
 Members have the option to use **Google Workspace** tools such as Google Drive, Docs, and Meet.
 
