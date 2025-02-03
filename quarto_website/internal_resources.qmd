@@ -2,11 +2,11 @@
 title: ""
 ---
 
-## Internal Resources for Collaboration and Communication
+### Internal Resources for Collaboration and Communication
 
 **BIOMES (Bern Intestinal Organisms and Microbial Ecosystems Society)** supports its members and contributors in achieving the association’s mission. Below, you will find information on our official communication and collaboration platforms.
 
-## Microsoft Accounts for Internal and External Collaboration and Communication
+### Microsoft Accounts for Internal and External Collaboration and Communication
 
 For external communications, association projects, and collaborations, BIOMES members may also use Microsoft accounts.
 
@@ -17,7 +17,7 @@ For external communications, association projects, and collaborations, BIOMES me
     2.  Sign in using your BIOMES Microsoft email and password
     3.  Access Outlook, OneDrive, and Teams
 
-## Google Workspace for Internal Collaboration
+### Google Workspace for Internal Collaboration
 
 Members have the option to use **Google Workspace** tools such as Google Drive, Docs, and Meet.
 
@@ -28,7 +28,7 @@ Members have the option to use **Google Workspace** tools such as Google Drive, 
     2.  Sign in with your assigned BIOMES Google email and password\
     3.  Use Gmail, Google Drive, and other tools for internal collaboration
 
-## GitHub Organizational Resources
+### GitHub Organizational Resources
 
 BIOMES maintains an official GitHub organization account for research-related software development and repository management.
 
@@ -36,6 +36,6 @@ BIOMES maintains an official GitHub organization account for research-related so
 -   **Request Access**: If you need access to repositories, contact an administrator or request membership via GitHub.\
 -   **Collaboration**: Use GitHub Issues and Discussions to communicate within projects.
 
-## Need Assistance?
+### Need Assistance?
 
 For any issues related to Microsoft accounts, Google Workspace, or GitHub access, please reach out to the BIOMES IT team ([it\@biomes-research.org](mailto:it@biomes-research.org)).
