@@ -24,7 +24,7 @@ Members have the option to use **Google Workspace** tools such as Google Drive, 
 -   **Google Workspace domain**: workspace.biomes-research.org
 -   **BIOMES Google email**: Your official BIOMES email for Google Workspace follows this format: firstname.lastname\@workspace.biomes-research.org
 -   **Accessing Google Workspace**:\
-    1.  Visit [Google Account Login](accounts.google.com)
+    1.  Visit [Google Account Login](https://accounts.google.com)
     2.  Sign in with your assigned BIOMES Google email and password\
     3.  Use Gmail, Google Drive, and other tools for internal collaboration
 
@@ -38,8 +38,4 @@ BIOMES maintains an official GitHub organization account for research-related so
 
 ## Need Assistance?
 
-For any issues related to Google Workspace, Microsoft accounts, or GitHub access, please reach out to the BIOMES IT team.
-
-------------------------------------------------------------------------
-
-This page ensures all BIOMES members are informed about internal tools and services. Let me know if you want any modifications!
+For any issues related to Microsoft accounts, Google Workspace, or GitHub access, please reach out to the BIOMES IT team ([it\@biomes-research.org](mailto:it@biomes-research.org)).
