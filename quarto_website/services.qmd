@@ -8,7 +8,7 @@ title: ""
 
 ### Microsoft Accounts for Collaboration and Communication
 
-For external communications, association projects, and collaborations, BIOMES members may also use Microsoft accounts.
+For external communications, association projects, and collaborations, BIOMES members may use Microsoft accounts.
 
 -   **BIOMES Microsoft email**: Your official BIOMES email for Microsoft accounts and external communication follows this format: firstname.lastname\@biomes-research.org
 -   **Accessing Microsoft Services**:\
