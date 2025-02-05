@@ -10,13 +10,12 @@ title: ""
 
 For external communications, association projects, and collaborations, BIOMES members may use Microsoft accounts.
 
--   **BIOMES email**: Your official BIOMES email follows this format: firstname.lastname\@biomes-research.org 1. Used for login and as BIOMES uses Microsoft Outlook as primary email service all emails to firstname.lastname\@biomes-research.org will be received in your Microsoft Outlook mailbox.
-
+-   **BIOMES email**: Your official BIOMES email follows this format: firstname.lastname\@biomes-research.org
+    -   Used for login and as BIOMES uses Microsoft Outlook as primary email service all emails to firstname.lastname\@biomes-research.org will be received in your Microsoft Outlook mailbox.
 -   **Accessing Microsoft services**:
     1.  Visit [Microsoft 365 Login](https://portal.office.com)
     2.  Sign in using your official BIOMES email
     3.  Access Outlook, OneDrive, and Teams
-
 -   **External partner access**:
     -   Partners can be invited as guests to OneDrive/Teams
     -   Must use their own pre-existing Microsoft account
@@ -28,16 +27,13 @@ Members have the option to use **Google Workspace** tools such as Google Drive, 
 
 -   **BIOMES email**: firstname.lastname\@biomes-research.org
     -   Used for login but **not** for Gmail services. Please note that as BIOMES uses Microsoft Outlook as primary email service all emails to firstname.lastname\@biomes-research.org will be received in your Microsoft Outlook mailbox.
-
 -   **Google Workspace alias**: firstname.lastname\@workspace.biomes-research.org
     -   Required for Gmail services
     -   Can be used for signing in
-
 -   **Accessing Google Workspace**:
     1.  Visit [Google Account Login](https://accounts.google.com)
     2.  Sign in with your assigned BIOMES Google email and password
-    3.  Use Google Drive, and other tools for internal collaboration
-
+    3.  Access Google Drive, NotebookLM and other tools
 -   **External partner access**:
     -   Can receive full Google Workspace accounts
     -   Email format: firstname.lastname\@external-workspace.biomes-research.org
@@ -48,7 +44,7 @@ Members have the option to use **Google Workspace** tools such as Google Drive, 
 BIOMES maintains an official GitHub organization account for research-related software development and repository management.
 
 -   **GitHub Organization**: [github.com/biomes-research](https://github.com/biomes-research)
--   **Request Access**: If you need access to repositories, contact an administrator or request membership via GitHub.\
+-   **Request Access**: If you need access to repositories, contact an administrator or request membership via GitHub.
 -   **Collaboration**: Use GitHub Issues and Discussions to communicate within projects.
 
 ### Need Assistance?
