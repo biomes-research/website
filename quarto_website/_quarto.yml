@@ -11,8 +11,8 @@ website:
         text: Contact
       - href: partners_and_collaborators.qmd
         text: Partners
-      - href: internal_resources.qmd
-        text: Internal Resources
+      - href: services.qmd
+        text: Collaboration Services
   page-footer: 
     center: 
       - text: "The content on this website is for informational purposes only. © BIOMES - All rights reserved."

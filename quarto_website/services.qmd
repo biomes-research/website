@@ -2,31 +2,29 @@
 title: ""
 ---
 
-### Internal Resources for Collaboration and Communication
+### Collaboration and Communication Services
 
 **BIOMES (Bern Intestinal Organisms and Microbial Ecosystems Society)** supports its members and contributors in achieving the association’s mission. Below, you will find information on our official communication and collaboration platforms.
 
-### Microsoft Accounts for Internal and External Collaboration and Communication
+### Microsoft Accounts for Collaboration and Communication
 
 For external communications, association projects, and collaborations, BIOMES members may also use Microsoft accounts.
 
--   **Microsoft account domain**: biomes-research.org
 -   **BIOMES Microsoft email**: Your official BIOMES email for Microsoft accounts and external communication follows this format: firstname.lastname\@biomes-research.org
 -   **Accessing Microsoft Services**:\
     1.  Visit [Microsoft 365 Login](https://portal.office.com)
     2.  Sign in using your BIOMES Microsoft email and password
     3.  Access Outlook, OneDrive, and Teams
 
-### Google Workspace for Internal Collaboration
+### Google Workspace for Collaboration
 
 Members have the option to use **Google Workspace** tools such as Google Drive, Docs, and Meet.
 
--   **Google Workspace domain**: workspace.biomes-research.org
--   **BIOMES Google email**: Your official BIOMES email for Google Workspace follows this format: firstname.lastname\@workspace.biomes-research.org
+-   **BIOMES Google email**: Your official BIOMES email for Google Workspace login follows this format: firstname.lastname\@biomes-research.org. Please note that Gmail is not activated as BIOMES uses Microsoft Outlook as email service; emails to firstname.lastname\@biomes-research.org will be received in your Microsoft Outlook mailbox.
 -   **Accessing Google Workspace**:\
     1.  Visit [Google Account Login](https://accounts.google.com)
-    2.  Sign in with your assigned BIOMES Google email and password\
-    3.  Use Gmail, Google Drive, and other tools for internal collaboration
+    2.  Sign in with your assigned BIOMES Google email and password
+    3.  Use Google Drive, and other tools for internal collaboration
 
 ### GitHub Organizational Resources
 
