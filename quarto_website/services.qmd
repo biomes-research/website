@@ -4,27 +4,44 @@ title: ""
 
 ### Collaboration and Communication Services
 
-**BIOMES (Bern Intestinal Organisms and Microbial Ecosystems Society)** supports its members and contributors in achieving the association’s mission. Below, you will find information on our official communication and collaboration platforms.
+**BIOMES (Bern Intestinal Organisms and Microbial Ecosystems Society)** supports its members and contributors in achieving the association’s mission. Below, you will find information on our supported communication and collaboration platforms.
 
-### Microsoft Accounts for Collaboration and Communication
+### Microsoft Accounts
 
 For external communications, association projects, and collaborations, BIOMES members may use Microsoft accounts.
 
--   **BIOMES Microsoft email**: Your official BIOMES email for Microsoft accounts and external communication follows this format: firstname.lastname\@biomes-research.org
--   **Accessing Microsoft Services**:\
+-   **BIOMES email**: Your official BIOMES email follows this format: firstname.lastname\@biomes-research.org 1. Used for login and as BIOMES uses Microsoft Outlook as primary email service all emails to firstname.lastname\@biomes-research.org will be received in your Microsoft Outlook mailbox.
+
+-   **Accessing Microsoft services**:
     1.  Visit [Microsoft 365 Login](https://portal.office.com)
-    2.  Sign in using your BIOMES Microsoft email and password
+    2.  Sign in using your official BIOMES email
     3.  Access Outlook, OneDrive, and Teams
 
-### Google Workspace for Collaboration
+-   **External partner access**:
+    -   Partners can be invited as guests to OneDrive/Teams
+    -   Must use their own pre-existing Microsoft account
+    -   Cannot receive BIOMES Microsoft licenses/accounts
+
+### Google Workspace
 
 Members have the option to use **Google Workspace** tools such as Google Drive, Docs, and Meet.
 
--   **BIOMES Google email**: Your official BIOMES email for Google Workspace login follows this format: firstname.lastname\@biomes-research.org. Please note that Gmail is not activated as BIOMES uses Microsoft Outlook as email service; emails to firstname.lastname\@biomes-research.org will be received in your Microsoft Outlook mailbox.
--   **Accessing Google Workspace**:\
+-   **BIOMES email**: firstname.lastname\@biomes-research.org
+    -   Used for login but **not** for Gmail services. Please note that as BIOMES uses Microsoft Outlook as primary email service all emails to firstname.lastname\@biomes-research.org will be received in your Microsoft Outlook mailbox.
+
+-   **Google Workspace alias**: firstname.lastname\@workspace.biomes-research.org
+    -   Required for Gmail services
+    -   Can be used for signing in
+
+-   **Accessing Google Workspace**:
     1.  Visit [Google Account Login](https://accounts.google.com)
     2.  Sign in with your assigned BIOMES Google email and password
     3.  Use Google Drive, and other tools for internal collaboration
+
+-   **External partner access**:
+    -   Can receive full Google Workspace accounts
+    -   Email format: firstname.lastname\@external-workspace.biomes-research.org
+    -   Contact BIOMES IT team (it\@biomes-research.org) for access requests including a brief justification
 
 ### GitHub Organizational Resources
 
