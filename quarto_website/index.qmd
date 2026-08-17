@@ -1,6 +1,29 @@
 ---
 title: ""
+pagetitle: "BIOMES"
+toc: false
+page-layout: full
 ---
+
+::: {.hero}
+
+![](assets/biomes_icon.svg){.hero-mark fig-alt="BIOMES emblem"}
+
+![](assets/biomes.png){.hero-wordmark fig-alt="BIOMES"}
+
+<p class="hero-fullname">Bern Intestinal Organisms and Microbial Ecosystems Society</p>
+
+<p class="hero-tag">Independent nonprofit association</p>
+
+::: {.hero-plate}
+![](assets/nl0064_clostridium_scindens_sem.jpg){fig-alt="Scanning electron micrograph of isolate NL0064, Clostridium scindens, at 10,000-fold magnification"}
+
+<p class="hero-caption">Isolate NL0064: <em>Clostridium scindens</em> · scanning electron microscopy · 10,000×</p>
+:::
+
+:::
+
+::: {.site-prose}
 
 ### Welcome to BIOMES
 
@@ -11,3 +34,5 @@ Founded by a group of passionate scientists and physicians, BIOMES operates with
 We are committed to providing high-quality research resources, including biobanks and data, to our members and collaborators. Through partnerships with international research groups, we aim to advance the field of gastrointestinal health and microbiota research, contributing to better diagnostic, preventive, and therapeutic solutions.
 
 Explore our site to learn more about our work, join our community, or discover opportunities for scientific collaboration. Together, we can advance research and improve outcomes in gastrointestinal health and microbiota science.
+
+:::

@@ -1,9 +1,14 @@
 project:
   type: website
 website:
-  title: ""
+  title: "BIOMES"
+  site-url: https://www.biomes-research.org
+  description: "Bern Intestinal Organisms and Microbial Ecosystems Society — independent nonprofit research association"
+  favicon: assets/biomes_icon.png
   navbar:
-    logo: assets/biomes.png
+    logo: assets/biomes_icon.svg
+    logo-alt: "BIOMES"
+    title: "BIOMES"
     left:
       - href: about.qmd
         text: About
@@ -13,22 +18,23 @@ website:
         text: Partners
       - href: services.qmd
         text: Collaboration Services
-  page-footer: 
-    center: 
-      - text: "The content on this website is for informational purposes only. © BIOMES - All rights reserved."
-    background: white
+  page-footer:
+    center:
+      - text: "The content on this website is for informational purposes only. © BIOMES — All rights reserved."
+    background: light
 format:
   html:
     theme: flatly
-    css: 
+    css:
       - styles.css
       - custom.css
     toc: true
     toc-depth: 3
-    toc-title: " "
+    toc-title: "On this page"
     number-sections: false
     highlight-style: github
     code-fold: true
     code-tools: false
     mainfont: Helvetica
+    pagetitle: "BIOMES"
 editor: visual

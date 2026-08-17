@@ -1,6 +1,9 @@
 ---
 title: ""
+pagetitle: "Collaboration Services · BIOMES"
 ---
+
+::: {.site-prose}
 
 ### Collaboration and Communication Services
 
@@ -50,3 +53,5 @@ BIOMES maintains an official GitHub organization account for research-related so
 ### Need Assistance?
 
 For any issues related to Microsoft accounts, Google Workspace, or GitHub access, please reach out to the BIOMES IT team ([it\@biomes-research.org](mailto:it@biomes-research.org)).
+
+:::

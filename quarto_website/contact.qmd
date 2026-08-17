@@ -1,6 +1,10 @@
 ---
 title: ""
+pagetitle: "Contact · BIOMES"
+toc: false
 ---
+
+::: {.site-prose}
 
 ### Contact Us
 
@@ -9,3 +13,5 @@ For inquiries about membership, collaborations, or general information, we welco
 **Email:** [contact@biomes-research.org](mailto:contact@biomes-research.org)
 
 We look forward to connecting with you!
+
+:::

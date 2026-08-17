@@ -1,6 +1,10 @@
 ---
 title: ""
+pagetitle: "About · BIOMES"
+toc: false
 ---
+
+::: {.site-prose}
 
 ### What is BIOMES?
 
@@ -19,3 +23,5 @@ We are **devoted to promoting biological and human medical research**, with a sp
 ### Our Values
 
 Operating entirely on a **nonprofit basis**, BIOMES is funded through donations and membership fees, ensuring our **independence and objectivity**. We are committed to fostering an collaborative environment that respects and promotes freedom and independence of research. Our work is guided by the principles of transparency, integrity, and a dedication to advancing knowledge for the **betterment of society**.
+
+:::
